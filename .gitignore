@@ -19,6 +19,9 @@
 *.tar.gz
 *.rar
 
+.idea
+.idea/
+
 out
 out/
 
